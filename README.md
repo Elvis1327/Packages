@@ -1,1 +1,2 @@
-npm i react-outside-click-handler
+# Packages
+1. react-outside-click-handler
